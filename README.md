@@ -2,6 +2,8 @@
 
 最新地址：[paofu.cloud](https://www.paofu.cloud/auth/register?code=Gv3n)
 
+> 无法打开，并且没有可用的机场，可以先使用免费机场：[v2free](https://github.com/winston779/v2free)
+
 ## 简介
 
 泡芙云是一家稳定运营了多年的翻墙机场，由海外团队运作，SS、SSR 协议，提供IEPL内网专线服务，不过墙，敏感时期也可用，对 Netflix、Disney+ 流媒体解锁支持度也很好。泡芙云机场针对新用户提供1元试用，新用户首购9折优惠，不要错过。泡芙云加速官网需要翻墙后访问。
