@@ -2,7 +2,7 @@
 
 最新地址：[paofu.cloud](https://www.paofu.cloud/auth/register?code=Gv3n)
 
-> 无法打开，并且没有可用的机场，可以先使用免费机场：[v2free](https://github.com/winston779/v2free)
+> 无法打开，请使用代理
 
 ## 简介
 
