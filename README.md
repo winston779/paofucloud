@@ -1,6 +1,6 @@
 # 泡芙云官网地址
 
-最新地址：[paofu.cloud](https://www.paofu.cloud/auth/register?code=Gv3n)
+最新地址：[paofu.cloud](https://www.paofu.cloud/auth/register?code=UqOE)
 
 > 无法打开，请使用代理
 
